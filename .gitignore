@@ -26,3 +26,5 @@ build
 .settings
 
 .DS_Store
+
+.idea
